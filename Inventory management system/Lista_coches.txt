@@ -1,0 +1,4 @@
+Modelo: Seat, Marca: ibiza
+Modelo: 2, Marca: 2
+Modelo: A5, Marca: Audi
+Modelo: R8, Marca: Audi
